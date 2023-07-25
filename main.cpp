@@ -11,6 +11,7 @@
 #include "parallelogram.h"
 #include "rhomb.h"
 #include "funcs.h"
+#include "use_dll.h"
 
 int main()
 {
@@ -23,7 +24,7 @@ int main()
 	Figures::I_triangle i_triangle{ 10, 20, 50, 60 };					// Равнобедренный треугольник
 	Figures::E_triangle e_triangle{ 30 };								// Равносторонний треугольник
 	Figures::Quadrangle quadrangle{ 10, 20, 30, 40, 50, 60, 70, 80 };	// Четырёхугольник
-	Figures::Rectangle_ rectangle{ 10, 20 };								// Прямоугольник
+	Figures::Rectangle_ rectangle{ 10, 20 };							// Прямоугольник
 	Figures::Square square{ 20 };										// Квадрат
 	Figures::Parallelogram parallelogram{ 20, 30, 30, 40 };				// Параллелограмм
 	Figures::Rhomb rhomb{ 30, 30, 40 };									// Ромб

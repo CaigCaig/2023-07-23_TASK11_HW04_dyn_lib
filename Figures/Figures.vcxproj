@@ -151,6 +151,7 @@
     <ClInclude Include="r_triangle.h" />
     <ClInclude Include="square.h" />
     <ClInclude Include="triangle.h" />
+    <ClInclude Include="use_dll.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
