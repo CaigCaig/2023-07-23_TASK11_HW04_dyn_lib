@@ -51,7 +51,7 @@
     <ClInclude Include="triangle.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="use_dll.h">
+    <ClInclude Include="declspec.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

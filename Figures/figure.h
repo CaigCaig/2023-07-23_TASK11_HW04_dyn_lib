@@ -1,5 +1,5 @@
 #pragma once
-#include "use_dll.h"
+#include "declspec.h"
 
 namespace Figures
 {

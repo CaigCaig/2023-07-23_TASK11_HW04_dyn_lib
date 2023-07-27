@@ -1,7 +1,7 @@
 #pragma once
 #include "figure.h"
 #include "triangle.h"
-#include "use_dll.h"
+#include "declspec.h"
 
 namespace Figures
 {

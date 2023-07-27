@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <Windows.h>
 #include <string>
+#include "use_dll.h"
 #include "triangle.h"
 #include "r_triangle.h"
 #include "i_triangle.h"
@@ -11,7 +12,6 @@
 #include "parallelogram.h"
 #include "rhomb.h"
 #include "funcs.h"
-#include "use_dll.h"
 
 int main()
 {
